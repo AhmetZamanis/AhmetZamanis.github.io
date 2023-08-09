@@ -19,11 +19,62 @@ Imbalanced binary classification with scikit-learn and PyTorch Lightning, on a l
 ---
 
 ### Time series regression - Store sales forecasting Kaggle competition
-[Link to report, part 1](https://github.com/AhmetZamanis/KaggleStoreSales/blob/main/ReportPart1.md), [Link to report, part 2](https://github.com/AhmetZamanis/KaggleStoreSales/blob/main/ReportPart2.md), [Link to GitHub repository](https://github.com/AhmetZamanis/KaggleStoreSales/), [Link to Kaggle notebook](https://www.kaggle.com/code/ahmetzamanis/store-sales-autoets-with-darts)
+[Link to report, part 1](https://github.com/AhmetZamanis/KaggleStoreSales/blob/main/ReportPart1.md)
+\ 
+[Link to report, part 2](https://github.com/AhmetZamanis/KaggleStoreSales/blob/main/ReportPart2.md)
+\ 
+[Link to GitHub repository](https://github.com/AhmetZamanis/KaggleStoreSales/), [Link to Kaggle notebook](https://www.kaggle.com/code/ahmetzamanis/store-sales-autoets-with-darts)
 \
 Time series regression modeling on a dataset of supermarket sales across years, with the Darts library in Python. Performing time decomposition & hybrid modeling, trying statistical methods such as linear regression, AutoARIMA and STL, as well as time series forecasting global neural networks / deep learning models.
 Best score: 0.42505 RMSLE, placing 61th out of 612 (top 10%) in the leaderboard at submission time (March 2023).
 <img src="images/portfolio/ts_stores.jpg"/>
+
+---
+
+### Kaggle Competition - House Prices Regression
+[Link to report](https://github.com/AhmetZamanis/Kaggle-House-Prices-Regression-FeatureEng/blob/main/HousePricesReport.md), [Link to GitHub repository](https://github.com/AhmetZamanis/Kaggle-House-Prices-Regression-FeatureEng)
+\
+Feature engineering, MRMR feature selection and XGBoost modeling for the Kaggle House Prices Regression competition. Best submission score (September 2022): 0.12143 RMSLE, 271th place, top 8%.
+<img src="images/portfolio/house_prices.jpg"/>
+
+---
+
+### Imbalanced classification - Loan requests analysis
+[Link to report](https://github.com/AhmetZamanis/LoanRequestClassification/blob/main/Report.md), [Link to GitHub repository](https://github.com/AhmetZamanis/LoanRequestClassification)
+\
+Imbalanced classification modeling with loan requests dataset. Hyperparameter tuning, performance benchmarking and performance metrics interpretation with the mlr3 package in R.
+
+---
+
+### Generalized Additive Models - Concrete Strength Analysis
+[Link to report](https://ahmetzamanis.github.io/ConcreteStrengthGAM/), [Link to GitHub repository](https://github.com/AhmetZamanis/ConcreteStrengthGAM)
+\
+Predicting concrete compressive strength using GAM regression, as a non-linear function of the mixture components. Visualization of the results with 3D interactive Plotly plots.
+<img src="images/portfolio/concrete_gam.jpg"/>
+
+---
+
+### Bayesian Linear Regression - Used car prices analysis
+[Link to report](https://github.com/AhmetZamanis/BayesianUsedCars/blob/main/BayesianUsedCarsGit.md), [Link to GitHub repository](https://github.com/AhmetZamanis/BayesianUsedCars)
+\
+Predicting used car prices using Bayesian Linear Regression, visualizing results and comparing with OLS regression.
+<img src="images/portfolio/bayesian_cars.jpg"/>
+
+---
+
+### Clustering analysis - Country statistics
+[Link to report](https://github.com/AhmetZamanis/ClusteringCountry/blob/main/ClusteringCountry2.md), [Link to GitHub repository](https://github.com/AhmetZamanis/ClusteringCountry)
+\
+Non-hierarchical k-medoids clustering on a dataset of country statistics.
+<img src="images/portfolio/cluster_country.jpg"/>
+
+---
+
+### Classification - Airline satisfaction analysis
+[Link to report](https://github.com/AhmetZamanis/AirlineClassification/blob/main/ClassificationAirline2.md), [Link to GitHub repository](https://github.com/AhmetZamanis/AirlineClassification)
+\
+Classification modeling on a large dataset of airline passenger satisfaction, using logistic regression, decision trees and random forests.
+<img src="images/portfolio/classif_airline.jpg"/>
 
 ---
 
