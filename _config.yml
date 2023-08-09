@@ -1,13 +1,17 @@
-title: John Doe # your name (or website title) here
+title: Data science portfolio - Ahmet Zamanis # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Hello, I am a freelance data scientist, and this is a portfolio of my personal projects. 
   <br><br>
-  Second description 
+  You can view my freelancer profile & hire me on <a href="https://www.upwork.com/freelancers/~01756762460f175190?s=1110580759050571776">Upwork</a> .
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://github.com/AhmetZamanis">GitHub Profile</a> 
+  <br><br>
+  <a href="https://www.linkedin.com/in/example/">LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+
+

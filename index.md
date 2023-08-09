@@ -2,33 +2,12 @@
 
 ---
 
-### Category Name 1 
-
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### Deep learning imbalanced classification - Used cars "kicks" problem
+[Link to report](https://github.com/AhmetZamanis/UsedCarKicksClassification/blob/main/Report.md), [Link to GitHub repository](https://github.com/AhmetZamanis/UsedCarKicksClassification)
+Imbalanced binary classification with scikit-learn and PyTorch Lightning, on a large dataset of used cars. Comparing logistic regression, SVM and XGBoost trained with class weights, with a neural network trained with focal loss. Performing hyperparameter optimization with Optuna. Assessing model performances with classification metrics & a sensitivity analysis based on a business scenario.
+<img src="images/kicks.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
-
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
