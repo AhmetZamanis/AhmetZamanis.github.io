@@ -23,7 +23,9 @@ Imbalanced binary classification with scikit-learn and PyTorch Lightning, on a l
 \ 
 [Link to report, part 2](https://github.com/AhmetZamanis/KaggleStoreSales/blob/main/ReportPart2.md)
 \ 
-[Link to GitHub repository](https://github.com/AhmetZamanis/KaggleStoreSales/), [Link to Kaggle notebook](https://www.kaggle.com/code/ahmetzamanis/store-sales-autoets-with-darts)
+[Link to GitHub repository](https://github.com/AhmetZamanis/KaggleStoreSales/)
+\ 
+[Link to Kaggle notebook](https://www.kaggle.com/code/ahmetzamanis/store-sales-autoets-with-darts)
 \
 Time series regression modeling on a dataset of supermarket sales across years, with the Darts library in Python. Performing time decomposition & hybrid modeling, trying statistical methods such as linear regression, AutoARIMA and STL, as well as time series forecasting global neural networks / deep learning models.
 Best score: 0.42505 RMSLE, placing 61th out of 612 (top 10%) in the leaderboard at submission time (March 2023).
@@ -43,6 +45,7 @@ Feature engineering, MRMR feature selection and XGBoost modeling for the Kaggle 
 [Link to report](https://github.com/AhmetZamanis/LoanRequestClassification/blob/main/Report.md), [Link to GitHub repository](https://github.com/AhmetZamanis/LoanRequestClassification)
 \
 Imbalanced classification modeling with loan requests dataset. Hyperparameter tuning, performance benchmarking and performance metrics interpretation with the mlr3 package in R.
+<img src="images/portfolio/loan_requests.jpg"/>
 
 ---
 
