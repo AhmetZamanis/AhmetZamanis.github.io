@@ -2,7 +2,7 @@
 
 ---
 
-### Time series anomaly detection - Canadian weather data
+### Time series anomaly detection - Canadian weather data (August 2023)
 [Link to report](https://ahmetzamanis.github.io/WeatherAnomalyDetectionClassification/), [Link to GitHub repository](https://github.com/AhmetZamanis/WeatherAnomalyDetectionClassification)
 \
 Multivariate time series anomaly detection using PyOD algorithms & the Darts package: K-means clustering, Gaussian Mixture Models, ECOD, Isolation Forest and an Autoencoder with PyTorchLightning. Visualizing & comparing the results with multiple plots, including 3D interactive Plotly scatterplots.
@@ -10,7 +10,7 @@ Multivariate time series anomaly detection using PyOD algorithms & the Darts pac
 
 ---
 
-### Deep learning imbalanced classification - Used cars "kicks" problem
+### Deep learning imbalanced classification - Used cars "kicks" problem (May 2023)
 [Link to report](https://github.com/AhmetZamanis/UsedCarKicksClassification/blob/main/Report.md), [Link to GitHub repository](https://github.com/AhmetZamanis/UsedCarKicksClassification)
 \
 Imbalanced binary classification with scikit-learn and PyTorch Lightning, on a large dataset of used cars. Comparing logistic regression, SVM and XGBoost trained with class weights, with a neural network trained with focal loss. Performing hyperparameter optimization with Optuna. Assessing model performances with classification metrics & a sensitivity analysis based on a business scenario.
@@ -18,7 +18,7 @@ Imbalanced binary classification with scikit-learn and PyTorch Lightning, on a l
 
 ---
 
-### Time series regression - Store sales forecasting Kaggle competition
+### Time series regression - Store sales forecasting Kaggle competition (March 2023)
 [Link to report, part 1](https://github.com/AhmetZamanis/KaggleStoreSales/blob/main/ReportPart1.md)
 \ 
 [Link to report, part 2](https://github.com/AhmetZamanis/KaggleStoreSales/blob/main/ReportPart2.md)
@@ -33,7 +33,7 @@ Best score: 0.42505 RMSLE, placing 61th out of 612 (top 10%) in the leaderboard 
 
 ---
 
-### Kaggle Competition - House Prices Regression
+### Kaggle Competition - House Prices Regression (2022)
 [Link to report](https://github.com/AhmetZamanis/Kaggle-House-Prices-Regression-FeatureEng/blob/main/HousePricesReport.md), [Link to GitHub repository](https://github.com/AhmetZamanis/Kaggle-House-Prices-Regression-FeatureEng)
 \
 Feature engineering, MRMR feature selection and XGBoost modeling for the Kaggle House Prices Regression competition. Best submission score (September 2022): 0.12143 RMSLE, 271th place, top 8%.
@@ -41,7 +41,7 @@ Feature engineering, MRMR feature selection and XGBoost modeling for the Kaggle 
 
 ---
 
-### Imbalanced classification - Loan requests analysis
+### Imbalanced classification - Loan requests analysis (2022)
 [Link to report](https://github.com/AhmetZamanis/LoanRequestClassification/blob/main/Report.md), [Link to GitHub repository](https://github.com/AhmetZamanis/LoanRequestClassification)
 \
 Imbalanced classification modeling with loan requests dataset. Hyperparameter tuning, performance benchmarking and performance metrics interpretation with the mlr3 package in R.
@@ -49,7 +49,7 @@ Imbalanced classification modeling with loan requests dataset. Hyperparameter tu
 
 ---
 
-### Generalized Additive Models - Concrete Strength Analysis
+### Generalized Additive Models - Concrete Strength Analysis (2022)
 [Link to report](https://ahmetzamanis.github.io/ConcreteStrengthGAM/), [Link to GitHub repository](https://github.com/AhmetZamanis/ConcreteStrengthGAM)
 \
 Predicting concrete compressive strength using GAM regression, as a non-linear function of the mixture components. Visualization of the results with 3D interactive Plotly plots.
@@ -57,7 +57,7 @@ Predicting concrete compressive strength using GAM regression, as a non-linear f
 
 ---
 
-### Bayesian Linear Regression - Used car prices analysis
+### Bayesian Linear Regression - Used car prices analysis (2022)
 [Link to report](https://github.com/AhmetZamanis/BayesianUsedCars/blob/main/BayesianUsedCarsGit.md), [Link to GitHub repository](https://github.com/AhmetZamanis/BayesianUsedCars)
 \
 Predicting used car prices using Bayesian Linear Regression, visualizing results and comparing with OLS regression.
@@ -65,7 +65,7 @@ Predicting used car prices using Bayesian Linear Regression, visualizing results
 
 ---
 
-### Clustering analysis - Country statistics
+### Clustering analysis - Country statistics (2022)
 [Link to report](https://github.com/AhmetZamanis/ClusteringCountry/blob/main/ClusteringCountry2.md), [Link to GitHub repository](https://github.com/AhmetZamanis/ClusteringCountry)
 \
 Non-hierarchical k-medoids clustering on a dataset of country statistics.
@@ -73,7 +73,7 @@ Non-hierarchical k-medoids clustering on a dataset of country statistics.
 
 ---
 
-### Classification - Airline satisfaction analysis
+### Classification - Airline satisfaction analysis (2022)
 [Link to report](https://github.com/AhmetZamanis/AirlineClassification/blob/main/ClassificationAirline2.md), [Link to GitHub repository](https://github.com/AhmetZamanis/AirlineClassification)
 \
 Classification modeling on a large dataset of airline passenger satisfaction, using logistic regression, decision trees and random forests.
