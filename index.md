@@ -2,6 +2,14 @@
 
 ---
 
+### Time series classification - Canadian weather data (August 2023)
+[Link to report](https://github.com/AhmetZamanis/WeatherAnomalyDetectionClassification/blob/main/ReportClassification.md), [Link to GitHub repository](https://github.com/AhmetZamanis/WeatherAnomalyDetectionClassification)
+\
+Multivariate time series classification using sktime and pyts: kNN with DTW distance, ROCKET & Arsenal, WEASELMUSE and a PyTorch Lightning convolutional neural network trained on image transformed data. Visualizing & comparing the performances of all algorithms.
+<img src="images/portfolio/ts_classif.jpg"/>
+
+---
+
 ### Time series anomaly detection - Canadian weather data (August 2023)
 [Link to report](https://ahmetzamanis.github.io/WeatherAnomalyDetectionClassification/), [Link to GitHub repository](https://github.com/AhmetZamanis/WeatherAnomalyDetectionClassification)
 \
