@@ -2,6 +2,14 @@
 
 ---
 
+### Deep learning time series forecasting - Türkiye energy consumption data (April 2024)
+[Link to report](https://github.com/AhmetZamanis/DeepLearningEnergyForecasting/blob/main/Report.md), [Link to GitHub repository](https://github.com/AhmetZamanis/DeepLearningEnergyForecasting)
+\
+Multi-horizon time series forecasting on a large dataset of hourly energy consumption values. Implementing a stateful LSTM model and an Inverted Transformer model using PyTorch Lightning, drawing inspiration from multiple existing architectures & making some modifications. Tuning hyperparameters with Optuna, generating forecast intervals with quantile regression, visualizing & comparing predictive performances.
+<img src="images/portfolio/LITransformer.png"/>
+
+---
+
 ### Time series classification - Canadian weather data (August 2023)
 [Link to report](https://github.com/AhmetZamanis/WeatherAnomalyDetectionClassification/blob/main/ReportClassification.md), [Link to GitHub repository](https://github.com/AhmetZamanis/WeatherAnomalyDetectionClassification)
 \
