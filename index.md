@@ -3,9 +3,9 @@
 ---
 
 ### Deep learning time series forecasting - Türkiye energy consumption data (April 2024)
-[Link to report](https://github.com/AhmetZamanis/DeepLearningEnergyForecasting/blob/main/Report.md), [Link to GitHub repository](https://github.com/AhmetZamanis/DeepLearningEnergyForecasting)
+[Link to report](https://github.com/AhmetZamanis/DeepLearningEnergyForecasting/blob/main/Report.md), [Link to GitHub repository](https://github.com/AhmetZamanis/DeepLearningEnergyForecasting), [Docker deployment instructions](https://github.com/AhmetZamanis/DeepLearningEnergyForecasting/blob/main/README.md#instructions-model-deployment-with-docker)
 \
-Multi-horizon time series forecasting on a large dataset of hourly energy consumption values. Implementing a stateful LSTM model and an Inverted Transformer model using PyTorch Lightning, drawing inspiration from multiple existing architectures & making some modifications. Tuning hyperparameters with Optuna, generating forecast intervals with quantile regression, visualizing & comparing predictive performances.
+Multi-horizon time series forecasting on a large dataset of hourly energy consumption values. Implementing a stateful LSTM model and an Inverted Transformer model using PyTorch Lightning, drawing inspiration from multiple existing architectures & making some modifications. Tuning hyperparameters with Optuna, generating forecast intervals with quantile regression, visualizing & comparing predictive performances. Transformer model deployment using Docker, with CUDA GPU support.
 <img src="images/portfolio/LITransformer.png"/>
 
 ---
