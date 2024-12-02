@@ -3,8 +3,8 @@ logo: "/images/logo.png" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Hello, I am a freelance data scientist, and this is a portfolio of my personal projects. 
   <br><br>
-  You can view my freelancer profile & hire me on <a href="https://www.upwork.com/freelancers/~01756762460f175190?s=1110580759050571776">Upwork</a>. I am Top Rated, which puts me in the top 10% of freelancers in terms of job success. I am also open to full-time roles.
-  <br><br>
+  #You can view my freelancer profile & hire me on <a href="https://www.upwork.com/freelancers/~01756762460f175190?s=1110580759050571776">Upwork</a>. I am Top Rated, which puts me in the top 10% of freelancers in terms of job success. I am also open to full-time roles.
+  #<br><br>
   <a href="https://www.linkedin.com/in/ahmetzamanis/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
